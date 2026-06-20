@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['Desarmador', 'Martillo', 'Nivel', 'PinzasPresion', 'Rotomartillo']
+
+roboflow:
+  workspace: isaass-workspace
+  project: herramientas-de-mano
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/isaass-workspace/herramientas-de-mano/dataset/1
