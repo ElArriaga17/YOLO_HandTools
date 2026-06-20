@@ -7,7 +7,7 @@ Bueno, la funcion que le queremos dar a nuestro programa, es enfocado en resolve
 pip install -r requirements.txt
 
 2.- Una vez instalado roboflow, procedemos a descargar el dataset par la lectura de herramienta de la misma forma copiando y pegando en la terminal:      
-pip install roboflow
+
 
 
 
